@@ -1,4 +1,7 @@
 import csv
+import os
+
+os.makedirs("data/processed", exist_ok=True)
 
 def calculate_average(num_list):
     if len(num_list) == 0:
