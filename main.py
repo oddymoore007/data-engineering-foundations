@@ -4,7 +4,7 @@
 name = "Ola"
 
 # A list stores multiple values
-numbers = [10, 20, 30, 40, 50]
+numbers = []
 
 # A function groups reusable logic
 def calculate_average(num_list):
